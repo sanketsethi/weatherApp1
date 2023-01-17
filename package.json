@@ -1,0 +1,16 @@
+{
+  "name": "zapyard1",
+  "version": "1.0.0",
+  "description": "Sanket First Node JS Project",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js",
+    "start": "node server.js"
+  },
+  "author": "Sanket Sethi",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "request": "^2.88.2"
+  }
+}
